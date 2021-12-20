@@ -9,9 +9,9 @@ Det er ikke noget specielt avanceret da jeg lavede det på et par få minutter i
 Denne funktion kan automatisk skrabe for dig.
 
 ## Bubbles
-Denne funktion kan automatisk indsende points til Circle K - Bubbles scoreboard'et.
+Denne funktion kan automatisk indsende points til Circle K - Bubbles scoreboard'et.    
 <img src="https://imgur.com/qqfh7SJ.png" alt="Image of being top of the leaderboard" width="200"/>
-
+    
 # Kommende funktioner
 På nuværende tidspunkt arbejder jeg ikke mere på projektet, men hvis nok støtte opstår om projektet kan det være at jeg starter igen.
 ## Konto opretter
