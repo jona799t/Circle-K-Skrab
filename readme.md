@@ -1,7 +1,7 @@
 # Velkommen til den uofficielle Circle K API!
 
-Dette er en uofficiel **Circle K API**. Du kan bruge den til at automatisere **Circle K Skrab**.
-Det er ikke noget specielt avanceret da jeg lavede det på et par få minutter i et frikvarter.
+Dette er en uofficiel **Circle K API** som du kan bruge den til at automatisere **Circle K Skrab**.  
+Det er lavet på et par minutter i et frikvarter så lad vær med at forvent det helt store.
 
 # Nuværende funktioner
 ## Skrab
