@@ -17,4 +17,4 @@ På nuværende tidspunkt arbejder jeg ikke mere på projektet, men hvis nok stø
 ## Konto opretter
 Med denne funktion vil du automatisk kunne lave konti som du kan bruge til at spille Circle K Skrab
 ## Gevinst-farmer
-Med denne funktion kunne farme gevinster som vil blive tilføjet til et dokument sorterede efter hvilken gevinst der er fået.
+Med denne funktion vil du kunne farme gevinster som vil blive tilføjet til et dokument sorterede efter hvilken gevinst der er fået.
